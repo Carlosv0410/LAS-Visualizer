@@ -53,7 +53,7 @@ LAS-Visualizer/
 ├── Logo Carlos Carrillo.png  
 ├── Carpeta para almacenar archivos LAS de ejemplo
 ├── Data/
-│   └── Aquí puedes colocar archivos .las para pruebas
+     └── Aquí puedes colocar archivos .las para pruebas
 ```
 
 ---
