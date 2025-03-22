@@ -8,7 +8,7 @@
 
 🚀 Aplicación interactiva para la **visualización de archivos LAS** usados en registros eléctricos de pozos petroleros. Desarrollado con **Streamlit**, **Matplotlib** y **Plotly**, este visualizador permite cargar, explorar y graficar curvas de manera intuitiva.
 
-![Logo](Logo%20Carlos%20Carrillo.png)
+
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 📷 Captura de pantalla
 
-> (Puedes añadir una imagen de la app en funcionamiento aquí si lo deseas)
+![Logo](Captura.png)
 
 ---
 
