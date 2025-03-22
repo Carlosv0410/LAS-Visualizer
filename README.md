@@ -36,7 +36,7 @@
 
 ## 📷 Captura de pantalla
 
-![Logo](Captura.png)
+![Captura](Captura.jpg)
 
 ---
 
