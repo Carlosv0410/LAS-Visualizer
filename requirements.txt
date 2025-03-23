@@ -1,0 +1,9 @@
+pandas
+openpyxl
+numpy
+lasio
+plotly
+matplotlib
+io
+random
+streamlit
