@@ -8,7 +8,7 @@
 
 🚀 Aplicación interactiva para la **visualización de archivos LAS** usados en registros eléctricos de pozos petroleros. Desarrollado con **Streamlit**, **Matplotlib** y **Plotly**, este visualizador permite cargar, explorar y graficar curvas de manera intuitiva.
 
-
+https://carloscarrillovillavicencio-las-visualizer.streamlit.app/
 
 ---
 
@@ -62,7 +62,7 @@ LAS-Visualizer/
 
 **Carlos Carrillo Villavicencio**  
 MSc. en TIC | Instructor de Python para la industria Oil & Gas  
-🔗 [LinkedIn](https://www.linkedin.com/in/carlos-carrillo-villavicencio) *(agrega tu enlace real)*  
+🔗 [LinkedIn]https://www.linkedin.com/in/carloscarrillovillavicencio/
 
 ---
 
